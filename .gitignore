@@ -1,0 +1,37 @@
+# ===== Models (절대 올리면 안됨) =====
+model/
+*.gguf
+*.bin
+*.pt
+*.pth
+
+# ===== Data =====
+data/
+datasets/
+*.csv
+*.json
+
+# ===== Outputs / Cache =====
+outputs/
+cache/
+*.log
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Virtual Env =====
+.venv/
+venv/
+env/
+
+# ===== OS =====
+.DS_Store
+
+# ===== Docker =====
+*.tar
+
+# ===== 기타 =====
+*.zip
+*.pdf
