@@ -52,26 +52,6 @@ docker-compose.yml
 
 ---
 
-## 🖥️ Demo
-
-### 📌 Application UI
-
-<img src="./assets/ui.png" width="700"/>
-
----
-
-### 🐳 Docker Environment
-
-<img src="./assets/docker.png" width="700"/>
-
----
-
-### ☸️ Kubernetes Deployment
-
-<img src="./assets/k8s.png" width="700"/>
-
----
-
 ## ⚙️ How to Run (English)
 
 ### 1. Docker
