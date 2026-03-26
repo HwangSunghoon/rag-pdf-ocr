@@ -1,4 +1,4 @@
-# rag-pdf-ocr
+# RAG PDF OCR
 
 ## 📌 Overview (English)
 
